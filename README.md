@@ -17,3 +17,4 @@ while they are not that good at processing textual data, which is why they have 
 with the aid of Machine Learning Techniques such as NLP.
 
 ![#e5cafa](https://placehold.it/15/e5cafa/000000?text=+)
+![#facaf2](https://placehold.it/15/facaf2/000000?text=+)
