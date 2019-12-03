@@ -18,3 +18,7 @@ with the aid of Machine Learning Techniques such as NLP.
 
 ![#e5cafa](https://placehold.it/150/e5cafa/000000?text=+)
 ![#facaf2](https://placehold.it/150/facaf2/000000?text=+)
+![#e5cafa](https://placehold.it/150/e5cafa/000000?text=+)
+![#facaf2](https://placehold.it/150/facaf2/000000?text=+)
+![#e5cafa](https://placehold.it/150/e5cafa/000000?text=+)
+![#facaf2](https://placehold.it/150/facaf2/000000?text=+)
