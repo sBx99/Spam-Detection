@@ -1,2 +1,2 @@
 # Spam-Detection
-[the website](https://github.com/sBx99/Spam-Detection/blob/master/Spam-Detector.png?raw=true)
+[the website](https://raw.githubusercontent.com/sBx99/Spam-Detection/master/Spam-Detector.png)
