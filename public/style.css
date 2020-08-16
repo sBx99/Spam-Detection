@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Thicc;
+  src: url("https://cdn.glitch.com/f844262b-8c8d-4576-b927-ada32452c372%2FGT-America-Expanded-Black.5127f769.woff?v=1581332858349");
+}
+
+@font-face {
+  font-family: KindaThicc;
+  src: url("https://cdn.glitch.com/f844262b-8c8d-4576-b927-ada32452c372%2FGT-America-Extended-Bold.642189e3.woff?v=1581333464621");
+}
+
+body {
+  font-family: KindaThicc, sans-serif;
+  background-color: red;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+h1 {
+  color: black;
+  font-family: Thicc, sans-serif; 
+  font-size: 3em;
+  font-border: 1px;
+  font-weight: ;
+}
+
+h2,
+header {
+  font-weight: ;
+  color: #ff48c4;
+}
+
+p {
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+p:hover {
+  color: black;
+}
+
+.enter {
+  width: 90%;
+  height: 100%;
+  padding: 0.5em;
+  font-family: KindaThicc, sans-serif;
+  color: black;
+  background-color: red;
+  right: 0.5em;
+  left: 0.5em;
+  border: 0.25em solid black;
+  padding: 10px;
+}
+
+.btn-info {
+  font-size: 1em;
+  color: white;
+  background-color: black;
+  font-family: Thicc, sans-serif;
+  border: solid 0.25em black;
+  border-radius: 1em;
+}
+
+.btn-info:hover {
+  background: red;
+  border: solid 0.25em red;
+  border-radius: 1em;
+}
+
+.results {
+  text-align: center;
+}

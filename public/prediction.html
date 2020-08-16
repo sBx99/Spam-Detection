@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>‼️</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>spam detector</h1>
+      </div>
+    </header>
+    <p>
+      the text you entered is
+    </p>
+    <div class="results">
+      {% if prediction == 1%}
+      <h2>SPAM</h2>
+      {% elif prediction == 0%}
+      <h2>NOT SPAM (HAM!)</h2>
+      {% endif %}
+    </div>
+  </body>
+</html>
